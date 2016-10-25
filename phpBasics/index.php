@@ -1,5 +1,5 @@
 <?php
-  $name = "Mick";
+  $name = "Micks";
   echo "Hello ". $name;
 
 
